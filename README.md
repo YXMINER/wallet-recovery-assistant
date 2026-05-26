@@ -21,23 +21,23 @@ Wallet Recovery Assistant 是一个面向数字资产安全与钱包恢复场景
 
 ### H200 GPU Cluster
 
-![H200 GPU Cluster](assets/h200-cluster.jpg)
+![H200 GPU Cluster](h200-cluster.jpg)
 
 ### H100 GPU Running Cluster
 
-![H100 GPU Running](assets/h100-running.jpg)
+![H100 GPU Running](h100-running.jpg)
 
 ### H100 80GB HBM3 Cluster
 
-![H100 Cluster](assets/h100-cluster.png)
+![H100 Cluster](h100-cluster.png)
 
 ### GPU Benchmark
 
-![GPU Benchmark](assets/gpu-benchmark.png)
+![GPU Benchmark](gpu-benchmark.png)
 
 ### Address Generation Engine
 
-![Address Generator](assets/address-generator.png)
+![Address Generator](address-generator.png)
 
 ## ⚡ 高性能算力集群
 
